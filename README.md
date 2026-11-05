@@ -9,7 +9,7 @@ Repositorio con los notebooks y trabajos prácticos que voy desarrollando durant
 | Año | Materia | Contenidos |
 |---|---|---|
 | 1° | [Minería de Datos I](1er-anio/mineria-de-datos-1/) | Limpieza, outliers, transformación de variables, estadística descriptiva, árboles de decisión, clustering, NLP y redes neuronales |
-| 1° | Programación Orientada a Objetos | _Próximamente._ |
+| 1° | [Programación Orientada a Objetos](1er-anio/programacion-orientada-a-objetos/) | Fundamentos de Python, estructuras de datos, funciones y decoradores, complejidad algorítmica, clases y patrones de diseño, archivos, SQLite, NumPy, Pandas y Matplotlib |
 
 ## Proyectos
 
@@ -17,4 +17,4 @@ _Próximamente._
 
 ## Herramientas
 
-Python · Pandas · NumPy · scikit-learn · Keras · NLTK · Matplotlib · Seaborn · Google Colab
+Python · Pandas · NumPy · SQLite · scikit-learn · Keras · NLTK · Matplotlib · Seaborn · Google Colab
